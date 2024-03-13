@@ -17,7 +17,7 @@ class RagBot:
         )
         self.query_engine = self.index.as_query_engine(llm=self.llm)
         self.chat_engine = self.index.as_chat_engine(
-            chat_mode="condense_question", llm=self.llm
+            chat_mode="condense_question", llm=self.llm, verbose=True
         )
 
     def query(self, question: str) -> str:
