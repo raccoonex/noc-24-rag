@@ -10,5 +10,5 @@ Demo:
     V koľkých dedinách má telekom 5G sieť?
 
 Kontext test:
-    Prevádzkuje telekom 5G sieť?
-    Kde?
+    Kedy google mapovať slovenské cesty?
+    A kde?
