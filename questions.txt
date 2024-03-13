@@ -1,0 +1,14 @@
+Demo:
+    Ktorí operátori v súčasnosti prevádzkujú 3G sieť? A ktorí nie?
+
+    Aká bola jej rýchlosť?
+
+    V ktorých obciach bola nedávno vypnutá?
+
+    Ktorý operátor má najväčšie pokrytie 5G sieťou? Koľko %? Ktorý operátor má najniľžšie?
+
+    V koľkých dedinách má telekom 5G sieť?
+
+Kontext test:
+    Prevádzkuje telekom 5G sieť?
+    Kde?
